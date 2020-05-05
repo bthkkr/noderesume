@@ -1,0 +1,26 @@
+{
+    "name": "Bijal Rathod",
+    "website": "https://bijalrt.github.io/",
+    "linkedin": "https://www.linkedin.com/in/bijalrt/",
+    "github": "bijalrt",
+    "email": "bijal.rathod@generalassemb.ly",
+    "resume": "https://bijalrt.github.io/assets/Malik-Hammad-Resume.pdf",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Vue",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django",
+        "Wordpress",
+        "Drupal"
+    ],
+    "otherSkills": [
+        "Unagi",
+        "Five Finger Fillet",
+        "Bridge"
+    ]
+}
