@@ -1,7 +1,3 @@
-
-"bin": {
-    "your-command-here": "./index.js"
-  },
 {
   "name": "bijal-resume",
   "version": "1.0.0",
@@ -11,5 +7,16 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Bijal",
-  "license": "ISC"
+  "license": "ISC",
+  "bin": {
+    "your-command-here": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bthkkr/noderesume.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bthkkr/noderesume/issues"
+  },
+  "homepage": "https://github.com/bthkkr/noderesume#readme"
 }
